@@ -5,7 +5,7 @@ const props = defineProps(['details'])
 </script>
 
 <template>
-    <div class="flex flex-col py-8 px-8 items-center justify-center">
+    <div class="min-h-[90vh] flex flex-col py-8 px-8 items-center justify-center">
         <div class="container flex p-8 rounded-lg bg-gray-100 text-black flex-wrap gap-6">
             <div class="flex-1 flex flex-col">
                 <label class="text-4xl font-bold block">Contact Us</label>
