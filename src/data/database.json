@@ -1,0 +1,905 @@
+{
+    "rooms": [
+        {
+            "id": 1,
+            "image": "/rooms/sampaguita.jpg",
+            "details": "good for 2 pax (Aircon) with picknic shed",
+            "name": "SAMPAGUITA ROOM",
+            "price": 2000
+        },
+        {
+            "id": 2,
+            "image": "/rooms/calachuchi.jpg",
+            "details": "good for 2 pax (Aircon)",
+            "name": "CALACHUCHI ROOM",
+            "price": 1500
+        },
+        {
+            "id": 3,
+            "image": "/rooms/dhalia.jpg",
+            "details": "good for 2 pax (Non-Aircon)",
+            "name": "DHALIA ROOM",
+            "price": 800
+        },
+        {
+            "id": 4,
+            "image": "/rooms/rose.jpg",
+            "details": "good for 2 pax (Aircon)",
+            "name": "ROSE ROOM",
+            "price": 1500
+        },
+        {
+            "id": 5,
+            "image": "/rooms/rosal.jpg",
+            "details": "good for 2 pax (Aircon)",
+            "name": "ROSAL ROOM",
+            "price": 1500
+        },
+        {
+            "id": 6,
+            "image": "/rooms/ilangilang.jpg",
+            "details": "good for 6 pax (Aircon)",
+            "name": "ILANG ILANG ROOM",
+            "price": 3500
+        }
+    ],
+    "cottages": [
+        {
+            "id": 1,
+            "price": 500,
+            "name": "Shed A",
+            "image": "/cottages/shedA.jpg"
+        },
+        {
+            "id": 2,
+            "price": 500,
+            "name": "Shed B",
+            "image": "/cottages/shedB.jpg"
+        },
+        {
+            "id": 3,
+            "price": 800,
+            "name": "Cottage 1",
+            "image": "/cottages/cottage1.jpg"
+        },
+        {
+            "id": 4,
+            "price": 300,
+            "name": "Cottage 2",
+            "image": "/cottages/cottage2.jpg"
+        },
+        {
+            "id": 5,
+            "price": 500,
+            "name": "Cottage 3",
+            "image": "/cottages/cottage3.jpg"
+        },
+        {
+            "id": 6,
+            "price": 500,
+            "name": "Cottage 4",
+            "image": "/cottages/cottage4.jpg"
+        },
+        {
+            "id": 7,
+            "price": 500,
+            "name": "Cottage 5",
+            "image": "/cottages/cottage5.jpg"
+        },
+        {
+            "id": 8,
+            "price": 300,
+            "name": "Tree House",
+            "image": "/cottages/tree.jpg"
+        },
+        {
+            "id": 9,
+            "price": 700,
+            "name": "Hall with Tables",
+            "image": "/cottages/hall.jpg"
+        }
+    ],
+    "pools": [
+        {
+            "id": 1,
+            "name": "3.5 Ft. Deep",
+            "image": "/pools/pool1.jpg"
+        },
+        {
+            "id": 2,
+            "name": "4.5 Ft. Deep",
+            "image": "/pools/pool2.jpg"
+        },
+        {
+            "id": 3,
+            "name": "6 Ft. Deep",
+            "image": "/pools/pool3.jpg"
+        }
+    ],
+    "details": {
+        "resortName": "818",
+        "contactNo": {
+            "no1": "Smart: 0921 422 0609",
+            "no2": "Globe: 0905 314 1600"
+        },
+        "contactEmail": {
+            "email": "visit818resort@yahoo.com",
+            "website": "https://www.facebook.com/818Resort/"
+        },
+        "address": {
+            "add1": "Crisostomo Extension, Brgy. San Isidro,",
+            "add2": "Pagsanjan, Laguna, Philippines"
+        },
+        "payment": {
+            "gcash": {
+                "name": "Rosie C.",
+                "no": "09393-212-194"
+            },
+            "maya": {
+                "name": "Rosie C.",
+                "no": "09393-212-194"
+            }
+        }
+    },
+    "offers": {
+        "name": "ALL SHED & POOL MAX OF 50 PERSON",
+        "packages": [
+            {
+                "id": 1,
+                "time": "9:00 AM to 5:00 PM",
+                "price": 8000,
+                "info": "Add 100 / Head excess of 50 pax"
+            },
+            {
+                "id": 2,
+                "time": "7:00 PM to 2:00 AM",
+                "price": 10000,
+                "info": "Add 150 / Head excess of 50 pax"
+            },
+            {
+                "id": 3,
+                "limit": "11 hours",
+                "time": "10:00 AM to 9:00 PM Or 10:00 PM to 9:00 AM",
+                "price": 18000,
+                "info": "Add 200 / Head excess of 50 pax"
+            },
+            {
+                "id": 4,
+                "time": "10:00 AM to 9:00 AM",
+                "limit": "23 hours",
+                "price": 25000,
+                "info": "Add 200 / Head excess of 50 pax"
+            }
+        ]
+    },
+    "images": [
+        {
+            "id": 1,
+            "name": "Cottage 1",
+            "type": "cottage",
+            "path": "/images/cottages/cot1-1.jpg"
+        },
+        {
+            "id": 2,
+            "name": "Cottage 1",
+            "type": "cottage",
+            "path": "/images/cottages/cot1-2.jpg"
+        },
+        {
+            "id": 3,
+            "name": "Cottage 1",
+            "type": "cottage",
+            "path": "/images/cottages/cot1-3.jpg"
+        },
+        {
+            "id": 4,
+            "name": "Cottage 1",
+            "type": "cottage",
+            "path": "/images/cottages/cot1-4.jpg"
+        },
+        {
+            "id": 5,
+            "name": "Cottage 1",
+            "type": "cottage",
+            "path": "/images/cottages/cot1-5.jpg"
+        },
+        {
+            "id": 6,
+            "name": "Cottage 2",
+            "type": "cottage",
+            "path": "/images/cottages/cot2-1.jpg"
+        },
+        {
+            "id": 7,
+            "name": "Cottage 2",
+            "type": "cottage",
+            "path": "/images/cottages/cot2-2.jpg"
+        },
+        {
+            "id": 8,
+            "name": "Cottage 3",
+            "type": "cottage",
+            "path": "/images/cottages/cot3-1.jpg"
+        },
+        {
+            "id": 9,
+            "name": "Cottage 3",
+            "type": "cottage",
+            "path": "/images/cottages/cot3-2.jpg"
+        },
+        {
+            "id": 10,
+            "name": "Cottage 3",
+            "type": "cottage",
+            "path": "/images/cottages/cot3-3.jpg"
+        },
+        {
+            "id": 11,
+            "name": "Cottage 3",
+            "type": "cottage",
+            "path": "/images/cottages/cot3-4.jpg"
+        },
+        {
+            "id": 12,
+            "name": "Cottage 3",
+            "type": "cottage",
+            "path": "/images/cottages/cot3-5.jpg"
+        },
+        {
+            "id": 13,
+            "name": "Cottage 3",
+            "type": "cottage",
+            "path": "/images/cottages/cot3-6.jpg"
+        },
+        {
+            "id": 14,
+            "name": "Cottage 4",
+            "type": "cottage",
+            "path": "/images/cottages/cot4-1.jpg"
+        },
+        {
+            "id": 15,
+            "name": "Cottage 4",
+            "type": "cottage",
+            "path": "/images/cottages/cot4-2.jpg"
+        },
+        {
+            "id": 16,
+            "name": "Cottage 4",
+            "type": "cottage",
+            "path": "/images/cottages/cot4-3.jpg"
+        },
+        {
+            "id": 17,
+            "name": "Cottage 4",
+            "type": "cottage",
+            "path": "/images/cottages/cot4-4.jpg"
+        },
+        {
+            "id": 18,
+            "name": "Cottage 4",
+            "type": "cottage",
+            "path": "/images/cottages/cot4-5.jpg"
+        },
+        {
+            "id": 19,
+            "name": "Cottage 4",
+            "type": "cottage",
+            "path": "/images/cottages/cot4-6.jpg"
+        },
+        {
+            "id": 20,
+            "name": "Cottage 5",
+            "type": "cottage",
+            "path": "/images/cottages/cot5-1.jpg"
+        },
+        {
+            "id": 21,
+            "name": "Cottage 5",
+            "type": "cottage",
+            "path": "/images/cottages/cot5-2.jpg"
+        },
+        {
+            "id": 22,
+            "name": "Cottage 5",
+            "type": "cottage",
+            "path": "/images/cottages/cot5-3.jpg"
+        },
+        {
+            "id": 23,
+            "name": "Cottage 5",
+            "type": "cottage",
+            "path": "/images/cottages/cot5-4.jpg"
+        },
+        {
+            "id": 24,
+            "name": "Cottage 5",
+            "type": "cottage",
+            "path": "/images/cottages/cot5-5.jpg"
+        },
+        {
+            "id": 25,
+            "name": "Cottage 5",
+            "type": "cottage",
+            "path": "/images/cottages/cot5-6.jpg"
+        },
+        {
+            "id": 26,
+            "name": "Hall",
+            "type": "cottage",
+            "path": "/images/cottages/hall1.jpg"
+        },
+        {
+            "id": 27,
+            "name": "Hall",
+            "type": "cottage",
+            "path": "/images/cottages/hall2.jpg"
+        },
+        {
+            "id": 28,
+            "name": "Hall",
+            "type": "cottage",
+            "path": "/images/cottages/hall3.jpg"
+        },
+        {
+            "id": 29,
+            "name": "Hall",
+            "type": "cottage",
+            "path": "/images/cottages/hall4.jpg"
+        },
+        {
+            "id": 30,
+            "name": "Hall",
+            "type": "cottage",
+            "path": "/images/cottages/hall5.jpg"
+        },
+        {
+            "id": 31,
+            "name": "Hall",
+            "type": "cottage",
+            "path": "/images/cottages/hall6.jpg"
+        },
+        {
+            "id": 32,
+            "name": "Hall",
+            "type": "cottage",
+            "path": "/images/cottages/hall7.jpg"
+        },
+        {
+            "id": 33,
+            "name": "Hall",
+            "type": "cottage",
+            "path": "/images/cottages/hall8.jpg"
+        },
+        {
+            "id": 34,
+            "name": "Hall",
+            "type": "cottage",
+            "path": "/images/cottages/hall9.jpg"
+        },
+        {
+            "id": 35,
+            "name": "Hall",
+            "type": "cottage",
+            "path": "/images/cottages/hall10.jpg"
+        },
+        {
+            "id": 36,
+            "name": "Hall",
+            "type": "cottage",
+            "path": "/images/cottages/hall11.jpg"
+        },
+        {
+            "id": 37,
+            "name": "Hall",
+            "type": "cottage",
+            "path": "/images/cottages/hall12.jpg"
+        },
+        {
+            "id": 38,
+            "name": "Shed A",
+            "type": "cottage",
+            "path": "/images/cottages/sha1.jpg"
+        },
+        {
+            "id": 39,
+            "name": "Shed A",
+            "type": "cottage",
+            "path": "/images/cottages/sha2.jpg"
+        },
+        {
+            "id": 40,
+            "name": "Shed A",
+            "type": "cottage",
+            "path": "/images/cottages/sha3.jpg"
+        },
+        {
+            "id": 41,
+            "name": "Shed A",
+            "type": "cottage",
+            "path": "/images/cottages/sha4.jpg"
+        },
+        {
+            "id": 42,
+            "name": "Shed A",
+            "type": "cottage",
+            "path": "/images/cottages/sha5.jpg"
+        },
+        {
+            "id": 43,
+            "name": "Shed A",
+            "type": "cottage",
+            "path": "/images/cottages/sha6.jpg"
+        },
+        {
+            "id": 44,
+            "name": "Shed A",
+            "type": "cottage",
+            "path": "/images/cottages/sha7.jpg"
+        },
+        {
+            "id": 45,
+            "name": "Shed A",
+            "type": "cottage",
+            "path": "/images/cottages/sha8.jpg"
+        },
+        {
+            "id": 46,
+            "name": "Shed A",
+            "type": "cottage",
+            "path": "/images/cottages/sha9.jpg"
+        },
+        {
+            "id": 47,
+            "name": "Shed A",
+            "type": "cottage",
+            "path": "/images/cottages/sha10.jpg"
+        },
+        {
+            "id": 48,
+            "name": "Shed A",
+            "type": "cottage",
+            "path": "/images/cottages/sha11.jpg"
+        },
+        {
+            "id": 49,
+            "name": "Shed B",
+            "type": "cottage",
+            "path": "/images/cottages/shb1.jpg"
+        },
+        {
+            "id": 50,
+            "name": "Tree House",
+            "type": "cottage",
+            "path": "/images/cottages/tree1.jpg"
+        },
+        {
+            "id": 51,
+            "name": "Tree House",
+            "type": "cottage",
+            "path": "/images/cottages/tree2.jpg"
+        },
+        {
+            "id": 52,
+            "name": "Tree House",
+            "type": "cottage",
+            "path": "/images/cottages/tree3.jpg"
+        },
+        {
+            "id": 53,
+            "name": "Old Photos",
+            "type": "old",
+            "path": "/images/olds/old1.jpg"
+        },
+        {
+            "id": 54,
+            "name": "Old Photos",
+            "type": "old",
+            "path": "/images/olds/old2.jpg"
+        },
+        {
+            "id": 55,
+            "name": "Old Photos",
+            "type": "old",
+            "path": "/images/olds/old3.jpg"
+        },
+        {
+            "id": 56,
+            "name": "Old Photos",
+            "type": "old",
+            "path": "/images/olds/old4.jpg"
+        },
+        {
+            "id": 57,
+            "name": "Old Photos",
+            "type": "old",
+            "path": "/images/olds/old5.jpg"
+        },
+        {
+            "id": 58,
+            "name": "Old Photos",
+            "type": "old",
+            "path": "/images/olds/old6.jpg"
+        },
+        {
+            "id": 59,
+            "name": "Old Photos",
+            "type": "old",
+            "path": "/images/olds/old7.jpg"
+        },
+        {
+            "id": 60,
+            "name": "Old Photos",
+            "type": "old",
+            "path": "/images/olds/old8.jpg"
+        },
+        {
+            "id": 61,
+            "name": "Old Photos",
+            "type": "old",
+            "path": "/images/olds/old9.jpg"
+        },
+        {
+            "id": 62,
+            "name": "Old Photos",
+            "type": "old",
+            "path": "/images/olds/old10.jpg"
+        },
+        {
+            "id": 63,
+            "name": "Old Photos",
+            "type": "old",
+            "path": "/images/olds/old11.jpg"
+        },
+        {
+            "id": 64,
+            "name": "Old Photos",
+            "type": "old",
+            "path": "/images/olds/old12.jpg"
+        },
+        {
+            "id": 65,
+            "name": "Old Photos",
+            "type": "old",
+            "path": "/images/olds/old13.jpg"
+        },
+        {
+            "id": 66,
+            "name": "Old Photos",
+            "type": "old",
+            "path": "/images/olds/old14.jpg"
+        },
+        {
+            "id": 67,
+            "name": "Other Photos",
+            "type": "other",
+            "path": "/images/others/other1.jpg"
+        },
+        {
+            "id": 68,
+            "name": "Other Photos",
+            "type": "other",
+            "path": "/images/others/other2.jpg"
+        },
+        {
+            "id": 69,
+            "name": "Other Photos",
+            "type": "other",
+            "path": "/images/others/other3.jpg"
+        },
+        {
+            "id": 70,
+            "name": "Other Photos",
+            "type": "other",
+            "path": "/images/others/other4.jpg"
+        },
+        {
+            "id": 71,
+            "name": "Swimming Pools",
+            "type": "pool",
+            "path": "/images/pools/pol1.jpg"
+        },
+        {
+            "id": 72,
+            "name": "Swimming Pools",
+            "type": "pool",
+            "path": "/images/pools/pol2.jpg"
+        },
+        {
+            "id": 73,
+            "name": "Swimming Pools",
+            "type": "pool",
+            "path": "/images/pools/pol3.jpg"
+        },
+        {
+            "id": 74,
+            "name": "Swimming Pools",
+            "type": "pool",
+            "path": "/images/pools/pol4.jpg"
+        },
+        {
+            "id": 75,
+            "name": "Swimming Pools",
+            "type": "pool",
+            "path": "/images/pools/pol5.jpg"
+        },
+        {
+            "id": 76,
+            "name": "Swimming Pools",
+            "type": "pool",
+            "path": "/images/pools/pol6.jpg"
+        },
+        {
+            "id": 77,
+            "name": "Swimming Pools",
+            "type": "pool",
+            "path": "/images/pools/pol7.jpg"
+        },
+        {
+            "id": 78,
+            "name": "Swimming Pools",
+            "type": "pool",
+            "path": "/images/pools/pol8.jpg"
+        },
+        {
+            "id": 79,
+            "name": "Swimming Pools",
+            "type": "pool",
+            "path": "/images/pools/pol9.jpg"
+        },
+        {
+            "id": 80,
+            "name": "CALACHUCHI ROOM",
+            "type": "room",
+            "path": "/images/rooms/cal1.jpg"
+        },
+        {
+            "id": 81,
+            "name": "CALACHUCHI ROOM",
+            "type": "room",
+            "path": "/images/rooms/cal2.jpg"
+        },
+        {
+            "id": 82,
+            "name": "CALACHUCHI ROOM",
+            "type": "room",
+            "path": "/images/rooms/cal3.jpg"
+        },
+        {
+            "id": 83,
+            "name": "CALACHUCHI ROOM",
+            "type": "room",
+            "path": "/images/rooms/cal4.jpg"
+        },
+        {
+            "id": 84,
+            "name": "CALACHUCHI ROOM",
+            "type": "room",
+            "path": "/images/rooms/cal5.jpg"
+        },
+        {
+            "id": 85,
+            "name": "CALACHUCHI ROOM",
+            "type": "room",
+            "path": "/images/rooms/cal6.jpg"
+        },
+        {
+            "id": 86,
+            "name": "DHALIA ROOM",
+            "type": "room",
+            "path": "/images/rooms/dha1.jpg"
+        },
+        {
+            "id": 87,
+            "name": "DHALIA ROOM",
+            "type": "room",
+            "path": "/images/rooms/dha2.jpg"
+        },
+        {
+            "id": 88,
+            "name": "DHALIA ROOM",
+            "type": "room",
+            "path": "/images/rooms/dha3.jpg"
+        },
+        {
+            "id": 89,
+            "name": "ILANG ILANG ROOM",
+            "type": "room",
+            "path": "/images/rooms/ila1.jpg"
+        },
+        {
+            "id": 90,
+            "name": "ILANG ILANG ROOM",
+            "type": "room",
+            "path": "/images/rooms/ila2.jpg"
+        },
+        {
+            "id": 91,
+            "name": "ILANG ILANG ROOM",
+            "type": "room",
+            "path": "/images/rooms/ila3.jpg"
+        },
+        {
+            "id": 92,
+            "name": "ILANG ILANG ROOM",
+            "type": "room",
+            "path": "/images/rooms/ila4.jpg"
+        },
+        {
+            "id": 93,
+            "name": "ILANG ILANG ROOM",
+            "type": "room",
+            "path": "/images/rooms/ila5.jpg"
+        },
+        {
+            "id": 94,
+            "name": "ILANG ILANG ROOM",
+            "type": "room",
+            "path": "/images/rooms/ila6.jpg"
+        },
+        {
+            "id": 95,
+            "name": "ILANG ILANG ROOM",
+            "type": "room",
+            "path": "/images/rooms/ila7.jpg"
+        },
+        {
+            "id": 96,
+            "name": "ILANG ILANG ROOM",
+            "type": "room",
+            "path": "/images/rooms/ila8.jpg"
+        },
+        {
+            "id": 97,
+            "name": "ILANG ILANG ROOM",
+            "type": "room",
+            "path": "/images/rooms/ila9.jpg"
+        },
+        {
+            "id": 98,
+            "name": "ROSAL ROOM",
+            "type": "room",
+            "path": "/images/rooms/ros1.jpg"
+        },
+        {
+            "id": 99,
+            "name": "ROSAL ROOM",
+            "type": "room",
+            "path": "/images/rooms/ros2.jpg"
+        },
+        {
+            "id": 100,
+            "name": "ROSAL ROOM",
+            "type": "room",
+            "path": "/images/rooms/ros3.jpg"
+        },
+        {
+            "id": 101,
+            "name": "ROSAL ROOM",
+            "type": "room",
+            "path": "/images/rooms/ros4.jpg"
+        },
+        {
+            "id": 102,
+            "name": "ROSAL ROOM",
+            "type": "room",
+            "path": "/images/rooms/ros5.jpg"
+        },
+        {
+            "id": 103,
+            "name": "ROSAL ROOM",
+            "type": "room",
+            "path": "/images/rooms/ros6.jpg"
+        },
+        {
+            "id": 104,
+            "name": "ROSE ROOM",
+            "type": "room",
+            "path": "/images/rooms/rose1.jpg"
+        },
+        {
+            "id": 105,
+            "name": "ROSE ROOM",
+            "type": "room",
+            "path": "/images/rooms/rose2.jpg"
+        },
+        {
+            "id": 106,
+            "name": "ROSE ROOM",
+            "type": "room",
+            "path": "/images/rooms/rose3.jpg"
+        },
+        {
+            "id": 107,
+            "name": "ROSE ROOM",
+            "type": "room",
+            "path": "/images/rooms/rose4.jpg"
+        },
+        {
+            "id": 108,
+            "name": "ROSE ROOM",
+            "type": "room",
+            "path": "/images/rooms/rose5.jpg"
+        },
+        {
+            "id": 109,
+            "name": "ROSE ROOM",
+            "type": "room",
+            "path": "/images/rooms/rose6.jpg"
+        },
+        {
+            "id": 110,
+            "name": "ROSE ROOM",
+            "type": "room",
+            "path": "/images/rooms/rose7.jpg"
+        },
+        {
+            "id": 111,
+            "name": "ROSE ROOM",
+            "type": "room",
+            "path": "/images/rooms/rose8.jpg"
+        },
+        {
+            "id": 112,
+            "name": "ROSE ROOM",
+            "type": "room",
+            "path": "/images/rooms/rose9.jpg"
+        },
+        {
+            "id": 113,
+            "name": "ROSE ROOM",
+            "type": "room",
+            "path": "/images/rooms/rose10.jpg"
+        },
+        {
+            "id": 114,
+            "name": "ROSE ROOM",
+            "type": "room",
+            "path": "/images/rooms/rose11.jpg"
+        },
+        {
+            "id": 115,
+            "name": "SAMPAGUITA ROOM",
+            "type": "room",
+            "path": "/images/rooms/sam1.jpg"
+        },
+        {
+            "id": 116,
+            "name": "SAMPAGUITA ROOM",
+            "type": "room",
+            "path": "/images/rooms/sam2.jpg"
+        },
+        {
+            "id": 117,
+            "name": "SAMPAGUITA ROOM",
+            "type": "room",
+            "path": "/images/rooms/sam3.jpg"
+        },
+        {
+            "id": 118,
+            "name": "SAMPAGUITA ROOM",
+            "type": "room",
+            "path": "/images/rooms/sam4.jpg"
+        },
+        {
+            "id": 119,
+            "name": "SAMPAGUITA ROOM",
+            "type": "room",
+            "path": "/images/rooms/sam5.jpg"
+        }
+    ],
+    "reviews": [
+        {
+            "id": 1,
+            "rating": 5,
+            "comment": "Malinis ang kwarto,masarap balikan",
+            "name": "Jan Dee"
+        },
+        {
+            "id": 2,
+            "rating": 5,
+            "comment": "Nice place.. love it ! see you again, maybe on my bday. hehe",
+            "name": "Leth Jenny"
+        }
+    ]
+}
